@@ -1,0 +1,8 @@
+word1=Byte
+word2=Bytee
+word1=Int16
+word2=Int1616
+word1=Int32
+word2=Int3232
+word1=Int64
+word2=Int6464
